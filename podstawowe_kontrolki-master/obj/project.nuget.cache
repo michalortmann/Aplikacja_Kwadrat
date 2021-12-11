@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aZAst7q3RSuiCb/QRGDCEkbztGxxqzDjbj7m6WM/QUMtj+zCMEil9GeCokOgzW+KubNhiU7Vc1030s64QPqWjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\smilo\\Desktop\\podstawowe_kontrolki-master\\podstawowe_kontrolki.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smilo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\smilo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\smilo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\smilo\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
